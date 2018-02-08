@@ -1,3 +1,3 @@
 # Configs
 
-Windows and Mac scripts for setting up my machine(s)
+Windows and Mac scripts and proceses that I typically use to setup my machine
